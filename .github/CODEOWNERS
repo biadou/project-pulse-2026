@@ -1,0 +1,4 @@
+/docs/                      @planner-agent
+/src/ui/                    @designer-agent
+/src/backend/               @coder-agent
+/.github/agents/            @orchestrator-agent
